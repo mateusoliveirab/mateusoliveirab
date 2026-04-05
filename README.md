@@ -13,8 +13,8 @@ Platform Engineer · Cloud Architect · AI Enthusiast
 
 ### Featured Projects
 
-🎯 [**kairoslist**](https://kairoslist.com) - A decision-making framework to cut through the noise and focus on high-impact work.
+🎯 [**kairoslist**](https://kairoslist.com) - Task manager built on the Eisenhower Matrix — with an MCP server so AI agents can manage your priorities too.
 
-📝 [**dontmarkdown**](https://dontmarkdown.pages.dev) - A minimalist, edge-first WYSIWYG notes app powered by Next.js and Cloudflare Workers.
+📝 [**dontmarkdown**](https://dontmarkdown.pages.dev) - The simplest way to share markdown online. No login, custom URLs, runs on Cloudflare Workers + R2.
 
-💀 [**skelica**](https://skelica.pages.dev) - Dissects your AI prompts to reveal what's strong and what needs sharpening.
+💀 [**skelica**](https://skelica.pages.dev) - Analyzes and scores your AI prompts across 8 dimensions. Helps you write prompts that actually work.
