@@ -14,5 +14,7 @@ Platform Engineer · Cloud Architect · AI Enthusiast
 ### Featured Projects
 
 🎯 [**kairoslist**](https://kairoslist.com) - A decision-making framework to cut through the noise and focus on high-impact work.
+
 📝 [**dontmarkdown**](https://dontmarkdown.pages.dev) - A minimalist, edge-first WYSIWYG notes app powered by Next.js and Cloudflare Workers.
+
 🔬 [**skelica**](https://skelica.pages.dev) - Dissects your AI prompts to reveal what's strong and what needs sharpening.
