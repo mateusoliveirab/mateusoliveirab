@@ -17,4 +17,4 @@ Platform Engineer · Cloud Architect · AI Enthusiast
 
 📝 [**dontmarkdown**](https://dontmarkdown.pages.dev) - A minimalist, edge-first WYSIWYG notes app powered by Next.js and Cloudflare Workers.
 
-🔬 [**skelica**](https://skelica.pages.dev) - Dissects your AI prompts to reveal what's strong and what needs sharpening.
+💀 [**skelica**](https://skelica.pages.dev) - Dissects your AI prompts to reveal what's strong and what needs sharpening.
