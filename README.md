@@ -1,23 +1,18 @@
-# 👋 Hey there, I'm Mateus!
-Software Engineer exploring the digital unknown. Building high-impact tools, AI orchestrations, and Edge-first applications.
+# 👋 Mateus Oliveira
 
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![React](https://img.shields.io/badge/Library-React-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
-![Cloudflare](https://img.shields.io/badge/Deployment-Cloudflare-informational?style=flat&logo=cloudflare&color=F38020)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=nodedotjs&color=339933)
+Platform Engineer · Cloud Architect · AI Enthusiast
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&color=232F3E)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&color=623CE4)
+![Cloudflare](https://img.shields.io/badge/Edge-Cloudflare-informational?style=flat&logo=cloudflare&color=F38020)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624&logoColor=black)
+![Docker](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=2496ED)
+![Networking](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20VPN-informational?style=flat&logo=cisco&color=1BA0D7)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-informational?style=flat&logo=githubactions&color=2088FF)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-
-I specialize in crafting scalable, minimalist solutions—from AI-guided personal finance apps to edge-first WYSIWYG editors. My work blends software engineering with a passion for emerging technologies, turning complex challenges into seamless user experiences.
-
-🔭 Currently experimenting with Multi-Agent Orchestration and 3D spatial runtimes.
-
-🌱 Continuously exploring the boundaries of AI, Edge Computing, and modern web architecture.
-
-🚀 Dedicated to building tools that are fast, useful, and delightful to use.
 
 ### 🧪 Featured Projects
 
+- [**kairoslist**](https://kairoslist.com) - A decision-making framework to cut through the noise and focus on high-impact work.
 - [**dontmarkdown**](https://github.com/mateusoliveirab/dontmarkdown) - A minimalist, edge-first WYSIWYG notes app powered by Next.js and Cloudflare Workers.
-- [**espelho-financeiro**](https://github.com/mateusoliveirab/espelho-financeiro) - A personal finance tracking app guided by AI mentors.
-- [**presence-3d-office**](https://github.com/mateusoliveirab/presence-3d-office) - A 3D spatial runtime and multi-agent orchestration environment built with React Three Fiber.
+- [**skelica**](https://github.com/mateusoliveirab/skelica) - Dissects your AI prompts to reveal what's strong and what needs sharpening.
