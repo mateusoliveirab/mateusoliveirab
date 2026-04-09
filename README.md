@@ -19,4 +19,4 @@ Platform Engineer · Cloud Architect · AI Enthusiast
 
 💀 [**skelica**](https://skelica.pages.dev) - Analyzes and scores your AI prompts across 8 dimensions. Helps you write prompts that actually work.
 
-🌬️ [**breathing-timer**](https://breathing-timer.pages.dev) - 4-7-8 breathing technique timer. Minimalist, soft cream design, once or continuous loop modes. Vanilla JS, zero deps.
+🌬️ [**breathing-timer**](https://fourseveneight.pages.dev) - 4-7-8 breathing technique timer. Minimalist, soft cream design, once or continuous loop modes. Vanilla JS, zero deps.
