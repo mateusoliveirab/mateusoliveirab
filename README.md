@@ -18,3 +18,5 @@ Platform Engineer · Cloud Architect · AI Enthusiast
 📝 [**dontmarkdown**](https://dontmarkdown.pages.dev) - The simplest way to share markdown online. No login, custom URLs, runs on Cloudflare Workers + R2.
 
 💀 [**skelica**](https://skelica.pages.dev) - Analyzes and scores your AI prompts across 8 dimensions. Helps you write prompts that actually work.
+
+🌬️ [**breathing-timer**](https://breathing-timer.pages.dev) - 4-7-8 breathing technique timer. Minimalist, soft cream design, once or continuous loop modes. Vanilla JS, zero deps.
