@@ -13,7 +13,7 @@ Platform Engineer · Cloud Architect · AI Enthusiast
 
 ### Featured Projects
 
-🎯 [**kairoslist**](https://kairoslist.com) - Task manager built on the Eisenhower Matrix — with an MCP server so AI agents can manage your priorities too.
+📜 [**kairoslist**](https://kairoslist.com) - Task manager built on the Eisenhower Matrix — with an MCP server so AI agents can manage your priorities too.
 
 📝 [**dontmarkdown**](https://dontmarkdown.mateusoliveirab2.workers.dev) - The simplest way to share markdown online. No login, custom URLs, runs on Cloudflare Workers + R2.
 
