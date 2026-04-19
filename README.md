@@ -15,7 +15,7 @@ Platform Engineer · Cloud Architect · AI Enthusiast
 
 🎯 [**kairoslist**](https://kairoslist.com) - Task manager built on the Eisenhower Matrix — with an MCP server so AI agents can manage your priorities too.
 
-📝 [**dontmarkdown**](https://dontmarkdown.pages.dev) - The simplest way to share markdown online. No login, custom URLs, runs on Cloudflare Workers + R2.
+📝 [**dontmarkdown**](https://dontmarkdown.mateusoliveirab2.workers.dev) - The simplest way to share markdown online. No login, custom URLs, runs on Cloudflare Workers + R2.
 
 💀 [**skelica**](https://skelica.pages.dev) - Analyzes and scores your AI prompts across 8 dimensions. Helps you write prompts that actually work.
 
