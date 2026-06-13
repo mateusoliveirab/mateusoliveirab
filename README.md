@@ -14,7 +14,7 @@ What I work with:
 
 Half my work is figuring out the angle everyone skipped. It's also the part I like most.
 
----
+<br>
 
 ### Featured Projects
 
@@ -24,7 +24,7 @@ Half my work is figuring out the angle everyone skipped. It's also the part I li
 *   [**skelica**](https://skelica.pages.dev) - Scores and diagnoses your AI prompts across 8 dimensions. Helps you write prompts that actually hold up.
 *   [**breathing-timer**](https://fourseveneight.pages.dev) - A 4-7-8 breathing timer. Minimalist, no dependencies, just Vanilla JS.
 
----
+<br>
 
 ### Contact
 
