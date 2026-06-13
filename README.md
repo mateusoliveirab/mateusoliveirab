@@ -1,6 +1,6 @@
 # Mateus Oliveira
 
-**Platform Engineer · I build autonomous systems and orchestrate AI agents**
+**Platform Engineer**
 
 I build systems that run without me. Long-running daemons, LLM pipelines, small tools that each do one thing well. Mostly Python and Go, with Cloudflare for anything that lives on the web.
 
