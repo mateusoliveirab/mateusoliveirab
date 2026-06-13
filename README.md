@@ -1,22 +1,31 @@
-# 👋 Mateus Oliveira
+# Mateus Oliveira
 
-Platform Engineer · Cloud Architect · AI Enthusiast
+**Platform Engineer · I build autonomous systems and orchestrate AI agents**
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&color=232F3E)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&color=623CE4)
-![Cloudflare](https://img.shields.io/badge/Edge-Cloudflare-informational?style=flat&logo=cloudflare&color=F38020)
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624&logoColor=black)
-![Docker](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=2496ED)
-![Networking](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20VPN-informational?style=flat&logo=cisco&color=1BA0D7)
-![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-informational?style=flat&logo=githubactions&color=2088FF)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+I build systems that run without me. Long-running daemons, LLM pipelines, small tools that each do one thing well. Mostly Python and Go, with Cloudflare for anything that lives on the web.
+
+Lately most of my work is about getting AI agents to do real work, not demos. I set up teams of agents that build, review each other, and ship without waiting on me. The hard part was never the model. It's the scaffolding around it: the tasks, the rules, the checks that catch an agent when it goes wrong.
+
+What I work with:
+
+- **Autonomous systems**: *long-running daemons and services in Python and Go, with the alerting and observability to keep them honest.*
+- **AI agent orchestration**: *multi-agent teams that build and review each other, task specs, MCP servers, prompt diagnostics.*
+- **Cloud & edge**: *AWS, Terraform, Cloudflare Workers, KV and Pages, Linux, networking.*
+
+Half my work is figuring out the angle everyone skipped. It's also the part I like most.
+
+---
 
 ### Featured Projects
 
-📜 [**kairoslist**](https://kairoslist.com) - Task manager built on the Eisenhower Matrix — with an MCP server so AI agents can manage your priorities too.
+*   [**kairoslist**](https://kairoslist.com) - A task manager built on the Eisenhower Matrix. It ships with an **MCP** server, so AI agents can read and reorganize your priorities on their own.
+*   [**dot-claude-code**](https://github.com/mateusoliveirab/dot-claude-code-installation) - My `~/.claude/`, versioned. Rules, skills, subagents and hooks I wrote to make Claude Code work the way I want.
+*   [**onlinemd**](https://onlinemd.mateusoliveirab2.workers.dev) - The simplest way to share markdown online. No login, custom URLs, runs on Cloudflare Workers and KV.
+*   [**skelica**](https://skelica.pages.dev) - Scores and diagnoses your AI prompts across 8 dimensions. Helps you write prompts that actually hold up.
+*   [**breathing-timer**](https://fourseveneight.pages.dev) - A 4-7-8 breathing timer. Minimalist, no dependencies, just Vanilla JS.
 
-📝 [**onlinemd**](https://onlinemd.mateusoliveirab2.workers.dev) - The simplest way to share markdown online. No login, custom URLs, runs on Cloudflare Workers + KV.
+---
 
-💀 [**skelica**](https://skelica.pages.dev) - Analyzes and scores your AI prompts across 8 dimensions. Helps you write prompts that actually work.
+### Contact
 
-🌬️ [**breathing-timer**](https://fourseveneight.pages.dev) - 4-7-8 breathing technique timer. Minimalist, soft cream design, once or continuous loop modes. Vanilla JS, zero deps.
+*   **LinkedIn**: [linkedin.com/in/mateusoliveirab](https://linkedin.com/in/mateusoliveirab)
