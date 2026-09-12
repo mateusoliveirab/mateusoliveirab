@@ -21,7 +21,7 @@ Half my work is figuring out the angle everyone skipped. It's also the part I li
 *   [**kairoslist**](https://kairoslist.com) - A task manager built on the Eisenhower Matrix. It ships with an **MCP** server, so AI agents can read and reorganize your priorities on their own.
 *   [**dot-claude-code**](https://github.com/mateusoliveirab/dot-claude-code-installation) - My `~/.claude/`, versioned. Rules, skills, subagents and hooks I wrote to make Claude Code work the way I want.
 *   [**onlinemd**](https://onlinemd.mateusoliveirab2.workers.dev) - The simplest way to share markdown online. No login, custom URLs, runs on Cloudflare Workers and KV.
-*   [**skelica**](https://skelica.pages.dev) - Scores and diagnoses your AI prompts across 8 dimensions. Helps you write prompts that actually hold up.
+*   [**skelica**](https://github.com/mateusoliveirab/skelica) *(archived)* - Scores and diagnoses your AI prompts across 8 dimensions. The hosted demo was retired; the code and its test suite remain.
 *   [**breathing-timer**](https://fourseveneight.pages.dev) - A 4-7-8 breathing timer. Minimalist, no dependencies, just Vanilla JS.
 
 <br>
